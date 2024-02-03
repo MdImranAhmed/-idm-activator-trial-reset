@@ -11,6 +11,8 @@
 
 ![idm-trial-reset](https://i.imgur.com/uVMdMZw.mp4)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/shyrDdD"  ><a href="//imgur.com/a/shyrDdD">IDM Activator / Trial Reseter</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ## Download
 
