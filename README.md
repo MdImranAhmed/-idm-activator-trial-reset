@@ -10,7 +10,7 @@
 ## Screenshot
 
 ![idm-trial-reset]
-(https://giphy.com/embed/z2XuJNs9kBwTGh8fnk)
+((https://imgur.com/uVMdMZw))
 
 ## Download
 
