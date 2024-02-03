@@ -9,8 +9,8 @@
 
 ## Screenshot
 
-![idm-trial-reset](https://prnt.sc/TA6Aho_afCCx)
-(https://prnt.sc/J4Yejn3f3dH3)
+![idm-trial-reset](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg1MGFqbjM3c2hydnN2ejRnbmg0c2Q4Z3o0bWs5MzdveGZnOW1lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2XuJNs9kBwTGh8fnk/giphy.gif)
+
 
 ## Download
 
