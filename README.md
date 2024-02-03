@@ -10,10 +10,7 @@
 ## Screenshot
 
 ![idm-trial-reset]
-<iframe src="https://giphy.com/embed/z2XuJNs9kBwTGh8fnk" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/z2XuJNs9kBwTGh8fnk">via GIPHY</a></p>
-
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHg1MGFqbjM3c2hydnN2ejRnbmg0c2Q4Z3o0bWs5MzdveGZnOW1lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2XuJNs9kBwTGh8fnk/giphy.gif)
-
+(https://giphy.com/embed/z2XuJNs9kBwTGh8fnk)
 
 ## Download
 
